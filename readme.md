@@ -6,7 +6,7 @@ For each conversion task, the module spawns a new child process to run the wac2w
 ## Installation
 GCC and Make is required.
 
-    npm install github:alvinsw/node-wacwav
+    npm install github:ternaustralia/node-wacwav
 
 ## Usage
 Convert a file:
